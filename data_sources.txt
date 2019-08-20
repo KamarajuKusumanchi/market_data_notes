@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-20T11:37:15-04:00
+
+====== data sources ======
+Created Tuesday 20 August 2019
+
+--------------------
+https://en.wikipedia.org/wiki/List_of_companies_of_the_United_States_by_state - contains list of companies in the US by state.
+
+http://en.wikipedia.org/wiki/List_of_hedge_funds - list of hedge funds
+
+https://github.com/armant/isLegit contains a bunch of links like this
+--------------------
