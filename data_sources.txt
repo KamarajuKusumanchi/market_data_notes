@@ -12,3 +12,16 @@ http://en.wikipedia.org/wiki/List_of_hedge_funds - list of hedge funds
 
 https://github.com/armant/isLegit contains a bunch of links like this
 --------------------
+
+--------------------
+sp500 market cap breakdown by sector
+
+https://us.spindices.com/indices/equity/sp-500 shows it by % weight
+https://eresearch.fidelity.com/eresearch/markets_sectors/sectors/sectors_in_market.jhtml shows it in dollar amount.
+--------------------
+
+--------------------
+sp500 performance breakdown by sector
+
+https://eresearch.fidelity.com/eresearch/markets_sectors/sectors/sectors_in_market.jhtml
+--------------------
