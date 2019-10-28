@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-10-27T20:38:29-04:00
+
+====== royalty_trusts ======
+Created Sunday 27 October 2019
+
+A list of publicly traded royalty trusts can be found at https://en.wikipedia.org/wiki/Royalty_trust#Publicly_traded_royalty_trusts . 
