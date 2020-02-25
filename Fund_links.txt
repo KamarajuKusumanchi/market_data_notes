@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-25T17:27:30-05:00
+
+====== Fund links ======
+Created Tuesday 25 February 2020
+
+--------------------
+To get the information on a fund, use
+	https://screener.fidelity.com/ftgw/etf/goto/snapshot/keyStatistics.jhtml?symbols=<ticker>
+Example:
+https://screener.fidelity.com/ftgw/etf/goto/snapshot/keyStatistics.jhtml?symbols=VOO gives information on VOO.
+
+For vanguard funds, use
+	https://investor.vanguard.com/etf/profile/<ticker>
+The ticker can be specified either in capitals or in lower case.
+
+Example:
+https://investor.vanguard.com/etf/profile/VOO gives information on VOO.
+https://investor.vanguard.com/etf/profile/voo gives the same information.
+--------------------
