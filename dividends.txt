@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-22T20:39:42-04:00
+
+====== dividends ======
+Created Sunday 22 March 2020
+
+--------------------
+https://dividata.com/ - Dividend data
+
+Sample links:
+https://dividata.com/stock/XOM/dividend - dividend data of Exxonmobil
+--------------------
