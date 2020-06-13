@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-06-13T13:35:33-04:00
+
+====== mta ======
+Created Saturday 13 June 2020
+
+--------------------
+Daily subway ridership is available from
+https://new.mta.info/document/17771
+
+Data is in csv format with three columns: [Date, Total Estimated Ridership, % Change From 2019 Weekday/Saturday/Sunday Average]
+
+Data starts from 2020-03-01
+
+I found this link in https://new.mta.info/coronavirus/ridership
+--------------------
+
+
+--------------------
+Daily bus ridership is available from
+https://new.mta.info/document/17776
+
+Data is in csv format with three columns: [Date, Total Estimated Ridership, % Change From 2019 Weekday/Saturday/Sunday Average]
+
+Data starts from 2020-03-01
+
+I found this link in https://new.mta.info/coronavirus/ridership
+--------------------
