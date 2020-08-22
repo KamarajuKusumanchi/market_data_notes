@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-22T10:37:37-04:00
+
+====== wsj ======
+Created Saturday 22 August 2020
+
+--------------------
+https://www.wsj.com/market-data/stocks/marketsdiary - Markets Diary
+
+https://www.wsj.com/market-data/stocks/upgradesdowngrades - Upgrades/Downgrades
+--------------------
