@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-12-07T10:26:58-05:00
+
+====== eminis ======
+Created Monday 07 December 2020
+
+--------------------
+E-mini S&P 500 Volume
+https://www.cmegroup.com/trading/equity-index/us-index/e-mini-sandp500_quotes_volume_voi.html#tradeDate=20201204
+
+gives open interest and volume.
+--------------------
