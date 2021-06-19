@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-06-19T12:44:06-04:00
+
+====== spx ======
+Created Saturday 19 June 2021
+
+--------------------
+OHLC data for spx can be downloaded from https://www.marketwatch.com/investing/index/spx/download-data .
+
+By default, it gives daily data for the past month.
+--------------------
