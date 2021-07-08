@@ -9,4 +9,7 @@ Created Saturday 19 June 2021
 OHLC data for spx can be downloaded from https://www.marketwatch.com/investing/index/spx/download-data .
 
 By default, it gives daily data for the past month.
+
+Notes:
+  * As of 2021-07-08 5:20 pm, it only has data up to 2021-07-07. It does not have ohlc data for 2021-07-08 even though the markets closed. Is there a better source for this data with less lag?
 --------------------
