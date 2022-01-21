@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-01-21T14:29:04-05:00
+
+====== reported date ======
+Created Friday 21 January 2022
+
+--------------------
+https://www.nasdaq.com/market-activity/stocks/<ticker>/earnings shows the reported date of earnings for a given ticker for the past 4 quarters.
+
+Ex:- https://www.nasdaq.com/market-activity/stocks/cost/earnings
+--------------------
