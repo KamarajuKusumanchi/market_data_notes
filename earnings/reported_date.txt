@@ -10,3 +10,17 @@ https://www.nasdaq.com/market-activity/stocks/<ticker>/earnings shows the report
 
 Ex:- https://www.nasdaq.com/market-activity/stocks/cost/earnings
 --------------------
+
+--------------------
+https://www.nasdaq.com/market-activity/earnings shows earnings for a given date.
+
+Sample data:
+for 2022-01-27:
+
+Symbol		Company Name			EPS	% Surprise		Market Cap			Fiscal Quarter Ending	Consensus EPS* Forecast	# Of Ests
+AAPL		Apple Inc.					$2.10	11.11			$2,760,451,274,800	Dec/2021				$1.89						11
+V			Visa Inc.					$1.81	7.1				$448,130,699,168		Dec/2021				$1.69						14
+MA			Mastercard Incorporated	$2.35	7.31			$344,415,843,669		Dec/2021				$2.19						14
+CMCSA		Comcast Corporation		$0.77	5.48			$219,353,995,390		Dec/2021				$0.73						15
+DHR		Danaher Corporation		$2.69	7.6				$192,914,317,053		Dec/2021				$2.50						7
+--------------------
