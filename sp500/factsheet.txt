@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-03-21T15:06:39-04:00
+
+====== factsheet ======
+Created Monday 21 March 2022
+
+--------------------
+sp500 (large cap)
+monthly: https://www.spglobal.com/spdji/en/idsenhancedfactsheet/file.pdf?calcFrequency=M&force_download=true&hostIdentifier=48190c8c-42c4-46af-8d1a-0cd5db894797&indexId=340
+daily: https://www.spglobal.com/spdji/en/idsenhancedfactsheet/file.pdf?calcFrequency=D&force_download=true&hostIdentifier=48190c8c-42c4-46af-8d1a-0cd5db894797&indexId=340
+
+sp400 (mid cap)
+monthly: https://www.spglobal.com/spdji/en/idsenhancedfactsheet/file.pdf?calcFrequency=M&force_download=true&hostIdentifier=48190c8c-42c4-46af-8d1a-0cd5db894797&indexId=410
+daily: https://www.spglobal.com/spdji/en/idsenhancedfactsheet/file.pdf?calcFrequency=D&force_download=true&hostIdentifier=48190c8c-42c4-46af-8d1a-0cd5db894797&indexId=410
+
+sp600 (small cap)
+monthly: https://www.spglobal.com/spdji/en/idsenhancedfactsheet/file.pdf?calcFrequency=M&force_download=true&hostIdentifier=48190c8c-42c4-46af-8d1a-0cd5db894797&indexId=2239
+daily: https://www.spglobal.com/spdji/en/idsenhancedfactsheet/file.pdf?calcFrequency=D&force_download=true&hostIdentifier=48190c8c-42c4-46af-8d1a-0cd5db894797&indexId=2239
+--------------------
+
+--------------------
+The monthly factsheets contain fundamentals.
+The fundamentals consists of P/E (Trailing), P/E (Projected), P/B, Indicated Div Yield, P/Sales, P/CashFlow.
+
+The daily factsheets does contain fundamentals.
+--------------------
+
+--------------------
+When I checked the links on 2022-03-21 (Mon), the monthly factsheets corresponded to 2022-02-28, the daily factsheets corresponded to 2022-03-18 (Fri).
+--------------------
+
+--------------------
+The monthly factsheets answer the following questions:
+* What is the total market cap of SP500?
+* What is the P/E of SP500?
+--------------------

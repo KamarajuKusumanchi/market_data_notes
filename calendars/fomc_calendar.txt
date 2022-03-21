@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-03-21T14:44:48-04:00
+
+====== fomc calendar ======
+Created Monday 21 March 2022
+
+--------------------
+tags | Fed, Federal Open Market Committee
+
+https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+contains dates of
+* FOMC meetings
+	* FOMC statement
+	* FOMC minutes
+--------------------
