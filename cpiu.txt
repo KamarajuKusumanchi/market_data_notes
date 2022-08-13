@@ -1,0 +1,81 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-08-13T01:17:00-04:00
+
+====== cpiu ======
+Created Saturday 13 August 2022
+
+--------------------
+All the data is in
+https://download.bls.gov/pub/time.series/cu/
+
+The series_id of CPI-U is CUUR0000SA0
+
+It can be broken down as follows:
+
+'''
+Code                   Value    Interpretation
+survey abbreviation    CU       Consumer Price Index
+seasonal(code)         U        Not Seasonally Adjusted
+periodicity_code       R        Monthly
+area_code              0000     U.S. city average
+item_code              SA0      All items
+'''
+
+--------------------
+
+--------------------
+https://download.bls.gov/pub/time.series/cu/cu.txt
+
+CU = urban consumers
+CW = clerical workers
+
+U.S. city average indexes are monthly.
+
+Indexes are published to three decimal places.
+
+Data is updated between 10th and 14th of each month.
+
+On 2022-08-12
+'''
+filename               file_size (app)
+cu.data.0.Current      40.5 MB
+cu.data.1.AllItems      2.5 MB
+cu.data.2.Summaries    10.8 MB
+'''
+
+
+So if only CPI-U numbers are needed, better to download cu.data.1.AllItems
+--------------------
+
+--------------------
+https://download.bls.gov/pub/time.series/cu/cu.series
+
+$ < cu.series body grep -E "CUUR0000SA0      " | csvlook -t -I
+| series_id   | area_code | item_code | seasonal | periodicity_code | base_code | base_period | series_title                                                                 | footnote_codes | begin_year | begin_period | end_year | end_period |
+|-------------|-----------|-----------|----------|------------------|-----------|-------------|------------------------------------------------------------------------------|----------------|------------|--------------|----------|------------|
+| CUUR0000SA0 | 0000      | SA0       | U        | R                | S         | 1982-84=100 | All items in U.S. city average, all urban consumers, not seasonally adjusted |                | 1913       | M01          | 2022     | M07        |
+--------------------
+
+--------------------
+From https://download.bls.gov/pub/time.series/cu/cu.area
+
+
+$ < cu.area tab2comma | \
+csvsql --query "SELECT * from stdin where area_code='0000'" -I | \
+csvlook -I
+| area_code | area_name         | display_level | selectable | sort_sequence |
+|-----------|-------------------|---------------|------------|---------------|
+| 0000      | U.S. city average | 0             | T          | 1             |
+--------------------
+
+--------------------
+From https://download.bls.gov/pub/time.series/cu/cu.item
+
+$ < cu.item tab2comma | \
+csvsql --query "SELECT * from stdin where item_code='SA0'" -I | \
+csvlook -I
+| item_code | item_name | display_level | selectable | sort_sequence |
+|-----------|-----------|---------------|------------|---------------|
+| SA0       | All items | 0             | T          | 1             |
+--------------------
