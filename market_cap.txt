@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-12-05T12:28:35-05:00
+
+====== market cap ======
+Created Monday 05 December 2022
+
+--------------------
+There are five basic groups based on a stock's percentile within total market cap of all stocks: mega-cap (the top 40% of stocks by market cap), large-cap (the next 30% of stocks by market cap), mid-cap (the next 20% of stocks), small-cap (the next 7% of stocks), and micro-cap (the smallest 3% of stocks). Market cap is not always an accurate indication of value because it does not account for debt and other factors.
+
+Ref:- https://ycharts.com/glossary/terms/market_cap
+--------------------
