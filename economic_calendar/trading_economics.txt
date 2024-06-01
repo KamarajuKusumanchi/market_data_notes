@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-06-01T01:40:46-04:00
+
+====== trading economics ======
+Created Saturday 01 June 2024
+
+--------------------
+https://tradingeconomics.com/united-states/calendar
+* pretty good
+* covers Fed's speeches
+* can look at the historical trends by hovering the mouse over or by clicking into it
+* better than finviz's economic calendar (https://finviz.com/calendar.ashx)
+* You can filter events by impact. The 3 star ones are “high impact”; 1 star ones are “low impact” etc.,
+
+See also:
+* https://www.kamaraju.xyz/dk/start?do=search&id=start&sf=1&q=trading+economics+calendar
+--------------------

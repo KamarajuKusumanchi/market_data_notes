@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-06-01T01:40:38-04:00
+
+====== finviz ======
+Created Saturday 01 June 2024
+
+--------------------
+https://finviz.com/calendar.ashx covers
+* MBA Mortgage Applications Index
+* Current Account Balance
+
+The website provides the data only for the current week. Is there a way to get the historical data?
+--------------------

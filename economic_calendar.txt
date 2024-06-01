@@ -5,10 +5,3 @@ Creation-Date: 2021-06-23T20:37:59-04:00
 ====== economic calendar ======
 Created Wednesday 23 June 2021
 
---------------------
-https://finviz.com/calendar.ashx covers
-* MBA Mortgage Applications Index
-* Current Account Balance
-
-The website provides the data only for the current week. Is there a way to get the historical data?
---------------------
